@@ -15,3 +15,5 @@ src:
 Tutorial for udemy course - React + Redux
 https://www.cufonfonts.com/font/sega-logo-font
 https://robohash.org/
+
+add docs...
