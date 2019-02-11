@@ -1,4 +1,4 @@
-# roboTeam
+# roboRoom
 
 To run the project:
 
@@ -13,6 +13,5 @@ To run the project:
 
 src:
 Tutorial for udemy course - React + Redux
-
 https://www.cufonfonts.com/font/sega-logo-font
 https://robohash.org/
